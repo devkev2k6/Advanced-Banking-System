@@ -61,7 +61,7 @@ Perfect showcase project for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bank-management-system-c.git
+git clone https://github.com/devkev2k6/Advanced-Banking-System.git
 cd bank-management-system-c
 
 # Compile
